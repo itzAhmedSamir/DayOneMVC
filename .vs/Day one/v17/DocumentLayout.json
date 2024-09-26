@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|d:\\ahmed\\computer science\\depi\\round 1\\technical .net track\\mvc projects\\day one\\day 1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|solutionrelative:day 1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|d:\\ahmed\\computer science\\depi\\round 1\\technical .net track\\mvc projects\\day one\\day 1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|d:\\ahmed\\computer science\\depi\\round 1\\technical .net track\\mvc projects\\day one\\day 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|solutionrelative:day 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|d:\\ahmed\\computer science\\depi\\round 1\\technical .net track\\mvc projects\\day one\\day 1\\dal\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|solutionrelative:day 1\\dal\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|d:\\ahmed\\computer science\\depi\\round 1\\technical .net track\\mvc projects\\day one\\day 1\\dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|solutionrelative:day 1\\dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|d:\\ahmed\\computer science\\depi\\round 1\\technical .net track\\mvc projects\\day one\\day 1\\migrations\\20240926064340_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|solutionrelative:day 1\\migrations\\20240926064340_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|d:\\ahmed\\computer science\\depi\\round 1\\technical .net track\\mvc projects\\day one\\day 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96BE186F-1556-4F80-BC99-D637023C38CB}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T07:23:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:56:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Day 1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Day 1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:51:19.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240926064340_v1.cs",
+              "DocumentMoniker": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Migrations\\20240926064340_v1.cs",
+              "RelativeDocumentMoniker": "Day 1\\Migrations\\20240926064340_v1.cs",
+              "ToolTip": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Migrations\\20240926064340_v1.cs",
+              "RelativeToolTip": "Day 1\\Migrations\\20240926064340_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:43:40.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\DAL\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Day 1\\DAL\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\DAL\\Entities\\Employee.cs",
+              "RelativeToolTip": "Day 1\\DAL\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:37:18.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\DAL\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Day 1\\DAL\\DB\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\DAL\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Day 1\\DAL\\DB\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:29:21.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day 1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ahmed\\Computer Science\\DEPI\\Round 1\\Technical .Net Track\\MVC Projects\\Day one\\Day 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day 1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:40:15.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
